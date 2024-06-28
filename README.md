@@ -1,5 +1,5 @@
 # EnterococciAMR
-Identification of key drivers of antimicrobial resistance in _Enterococcus_ using machine learning feature ranking (submitted to mSystems Journal, 2023)
+Identification of key drivers of antimicrobial resistance in _Enterococcus_ using machine learning feature ranking (submitted to Canadian Journal of Microbiology)
 
 Files include: <br>
 - rast_pangenome_ml_feature.ipynb
