@@ -1,0 +1,153 @@
+"Table S1. Feature ranking from tree model-based feature importance scores with pangenome feature sets for
+vancomycin-resistance prediction models. ""Avg feat importance ranking"" are averaged across 5-fold cross validation sets. ",,,,,,,,,
+Feature,Ranking_1,Ranking_2,Ranking_3,Ranking_4,Ranking_5,Avg feat importance ranking,Antibiotic,Classifier,Annotation
+vanH,8,15,1,5,1,2.33,Vancomycin,random forest,Prokka
+vanA,2,5,8,1,17,8.67,Vancomycin,random forest,Prokka
+vanX,1,1,10,19,2,10.33,Vancomycin,random forest,Prokka
+walR_2,4,2,4,28,6,12.67,Vancomycin,random forest,Prokka
+group_12601,17,26,13,31,18,20.67,Vancomycin,random forest,Prokka
+group_2024,21,55,36,33,8,25.67,Vancomycin,random forest,Prokka
+group_22090,6,14,17,26,37,26.67,Vancomycin,random forest,Prokka
+dgaR_4,47,69,67,8,5,26.67,Vancomycin,random forest,Prokka
+group_12771,7,134,32,37,19,29.33,Vancomycin,random forest,Prokka
+group_7909,25,117,27,32,44,34.33,Vancomycin,random forest,Prokka
+group_9261,9,44,28,65,31,41.33,Vancomycin,random forest,Prokka
+cutD,11,8,31,55,77,54.33,Vancomycin,random forest,Prokka
+group_21925,50,78,53,60,56,56.33,Vancomycin,random forest,Prokka
+group_9869,22,172,42,9,132,61,Vancomycin,random forest,Prokka
+ngcG,3,287,22,156,9,62.33,Vancomycin,random forest,Prokka
+group_21502,5,49,87,13,88,62.67,Vancomycin,random forest,Prokka
+group_21897,28,546,37,94,74,68.33,Vancomycin,random forest,Prokka
+group_692,42,43,54,155,68,92.33,Vancomycin,random forest,Prokka
+yciC,15,487,74,47,169,96.67,Vancomycin,random forest,Prokka
+group_22171,18,135,179,38,76,97.67,Vancomycin,random forest,Prokka
+group_21920,27,141,82,20,198,100,Vancomycin,random forest,Prokka
+group_22204,30,90,325,23,35,127.67,Vancomycin,random forest,Prokka
+group_22065,31,51,120,153,127,133.33,Vancomycin,random forest,Prokka
+group_22001,19,66,93,178,134,135,Vancomycin,random forest,Prokka
+group_7851,46,54,121,105,207,144.33,Vancomycin,random forest,Prokka
+araN_2,10,150,215,188,43,148.67,Vancomycin,random forest,Prokka
+group_22129,33,324,222,27,225,158,Vancomycin,random forest,Prokka
+group_12647,24,37,293,79,124,165.33,Vancomycin,random forest,Prokka
+group_21983,29,483,40,190,281,170.33,Vancomycin,random forest,Prokka
+group_12746,35,234,193,248,152,197.67,Vancomycin,random forest,Prokka
+group_12653,32,52,107,438,78,207.67,Vancomycin,random forest,Prokka
+group_12766,49,152,88,146,408,214,Vancomycin,random forest,Prokka
+licC_4,12,1313,18,234,571,274.33,Vancomycin,random forest,Prokka
+group_18638,34,252,56,631,157,281.33,Vancomycin,random forest,Prokka
+group_159,13,11,69,768,116,317.67,Vancomycin,random forest,Prokka
+group_22161,36,142,342,233,587,387.33,Vancomycin,random forest,Prokka
+group_21996,40,507,393,138,636,389,Vancomycin,random forest,Prokka
+group_9867,44,261,354,193,856,467.67,Vancomycin,random forest,Prokka
+group_9970,23,127,862,593,100,518.33,Vancomycin,random forest,Prokka
+group_18637,43,222,1486,75,163,574.67,Vancomycin,random forest,Prokka
+group_22246,37,212,131,225,2533,963,Vancomycin,random forest,Prokka
+group_9934,45,413,3135,50,193,1126,Vancomycin,random forest,Prokka
+frlD,41,75,2177,58,1902,1379,Vancomycin,random forest,Prokka
+group_5481,16,360,312,15262,103,5225.67,Vancomycin,random forest,Prokka
+group_2858,26,2065,189,15648,99,5312,Vancomycin,random forest,Prokka
+group_22229,48,167,15564,201,175,5313.33,Vancomycin,random forest,Prokka
+group_22223,38,159,126,15883,160,5389.67,Vancomycin,random forest,Prokka
+group_18633,39,589,244,15948,107,5433,Vancomycin,random forest,Prokka
+group_9932,14,24,16059,66,1442,5855.67,Vancomycin,random forest,Prokka
+group_22003,20,210,963,725,17926,6538,Vancomycin,random forest,Prokka
+D-alanine--(R)-lactate ligase (EC 6.1.2.1) > VanA,2,3,1,1,3,1.67,Vancomycin,gradient boosting,RASTtk
+D-alanyl-D-alanine dipeptidase (EC 3.4.13.22) of vancomycin resistance > VanX,1,1,2,3,1,2,Vancomycin,gradient boosting,RASTtk
+"D-lactate dehydrogenase VanH, associated with vancomycin resistance (EC 1.1.1.28)",3,2,3,2,2,2.33,Vancomycin,gradient boosting,RASTtk
+group_10747,48,78,675,662,700,679,Vancomycin,gradient boosting,RASTtk
+group_12025,33,84,38,107,3742,1295.67,Vancomycin,gradient boosting,RASTtk
+group_27188,34,1210,1251,1404,1571,1408.67,Vancomycin,gradient boosting,RASTtk
+group_15637,40,59,43,55,4357,1485,Vancomycin,gradient boosting,RASTtk
+group_29462,49,4975,39,20,5056,1705,Vancomycin,gradient boosting,RASTtk
+group_13579,10,105,3562,92,3471,2375,Vancomycin,gradient boosting,RASTtk
+group_12022,18,3603,3595,135,3728,2486,Vancomycin,gradient boosting,RASTtk
+group_486,7,12847,86,65,12893,4348,Vancomycin,gradient boosting,RASTtk
+group_27459,14,4,5,16527,5,5512.33,Vancomycin,gradient boosting,RASTtk
+group_27918,20,77,48,81,17012,5713.67,Vancomycin,gradient boosting,RASTtk
+group_4163,43,5741,5632,5759,5753,5714.67,Vancomycin,gradient boosting,RASTtk
+group_27911,35,87,45,126,17053,5741.33,Vancomycin,gradient boosting,RASTtk
+group_27864,12,81,78,118,17033,5743,Vancomycin,gradient boosting,RASTtk
+group_27189,25,5818,5982,5837,5829,5882.67,Vancomycin,gradient boosting,RASTtk
+group_23529,24,7573,7523,7663,7671,7619,Vancomycin,gradient boosting,RASTtk
+group_8168,22,24345,37,36,24356,8143,Vancomycin,gradient boosting,RASTtk
+group_9855,5,24775,6,5,24796,8269,Vancomycin,gradient boosting,RASTtk
+group_11935,27,115,8514,8520,8664,8566,Vancomycin,gradient boosting,RASTtk
+group_13611,6,25804,23,16,25813,8617.33,Vancomycin,gradient boosting,RASTtk
+group_29461,30,15645,15549,49,15692,10430,Vancomycin,gradient boosting,RASTtk
+group_27878,16,43,16987,52,17018,11352.33,Vancomycin,gradient boosting,RASTtk
+group_27877,29,123,16988,109,17019,11372,Vancomycin,gradient boosting,RASTtk
+group_27882,42,96,88,17016,17045,11383,Vancomycin,gradient boosting,RASTtk
+group_4158,44,19408,19351,29,19505,12961.67,Vancomycin,gradient boosting,RASTtk
+group_27899,45,17003,16910,16941,17065,16972,Vancomycin,gradient boosting,RASTtk
+group_27891,39,48,16981,17011,17073,17021.67,Vancomycin,gradient boosting,RASTtk
+Phage uncharacterised protein XkdX,26,17755,17729,17781,17769,17759.67,Vancomycin,gradient boosting,RASTtk
+group_3274,32,18754,18714,18569,18613,18632,Vancomycin,gradient boosting,RASTtk
+group_12189,23,18679,18705,18681,18727,18704.33,Vancomycin,gradient boosting,RASTtk
+group_6560,38,19003,18992,19035,19072,19033,Vancomycin,gradient boosting,RASTtk
+group_4156,31,19443,19352,19464,19506,19440.67,Vancomycin,gradient boosting,RASTtk
+group_4770,46,19469,19445,19421,19463,19443,Vancomycin,gradient boosting,RASTtk
+group_16055,19,19651,19809,19677,19764,19750,Vancomycin,gradient boosting,RASTtk
+group_3106,17,20118,20105,19925,19990,20006.67,Vancomycin,gradient boosting,RASTtk
+group_4915,28,20383,20406,20206,20223,20278.33,Vancomycin,gradient boosting,RASTtk
+group_79,47,21266,21289,21357,21368,21338,Vancomycin,gradient boosting,RASTtk
+group_13722,15,24214,24208,24217,24233,24219.33,Vancomycin,gradient boosting,RASTtk
+group_18385,8,26705,26674,26777,26772,26741,Vancomycin,gradient boosting,RASTtk
+group_3602,4,28612,28788,28615,28601,28668,Vancomycin,gradient boosting,RASTtk
+group_25929,13,29973,30153,29961,29959,30024.33,Vancomycin,gradient boosting,RASTtk
+group_25948,21,29969,30148,29972,29955,30025,Vancomycin,gradient boosting,RASTtk
+group_25933,37,29970,30150,29973,29956,30026.33,Vancomycin,gradient boosting,RASTtk
+group_25932,11,29971,30151,29974,29957,30027.33,Vancomycin,gradient boosting,RASTtk
+group_25930,9,29972,30152,29975,29958,30028.33,Vancomycin,gradient boosting,RASTtk
+FIG00633766: hypothetical protein,50,29975,30155,29978,29961,30031.33,Vancomycin,gradient boosting,RASTtk
+group_824,41,31826,31761,31777,31564,31700.67,Vancomycin,gradient boosting,RASTtk
+group_1915,36,32546,32550,32533,32591,32558,Vancomycin,gradient boosting,RASTtk
+vanX-A,3,1,1,1,5,2.33,Vancomycin,random forest,Bakta
+vanH-A,9,3,3,3,3,3,Vancomycin,random forest,Bakta
+vanR-A,5,20,6,8,4,6,Vancomycin,random forest,Bakta
+vanS-A,11,19,2,7,11,6.67,Vancomycin,random forest,Bakta
+histidinol phosphate phosphatase,23,7,14,4,12,10,Vancomycin,random forest,Bakta
+group_22258,10,10,23,18,2,14.33,Vancomycin,random forest,Bakta
+Nucleotide pyrophosphatase,13,300,10,15,22,15.67,Vancomycin,random forest,Bakta
+group_22254,18,132,5,9,42,18.67,Vancomycin,random forest,Bakta
+DDE-Tnp-ISL3 domain-containing protein,15,161,7,48,35,30,Vancomycin,random forest,Bakta
+phage immunity protein,22,137,9,67,25,33.67,Vancomycin,random forest,Bakta
+group_1958,6,76,4,35,66,35,Vancomycin,random forest,Bakta
+group_22262,24,2,19,5,90,38,Vancomycin,random forest,Bakta
+group_22090,35,121,36,65,20,40.33,Vancomycin,random forest,Bakta
+ISL3 family transposase,28,135,21,39,62,40.67,Vancomycin,random forest,Bakta
+group_22234,21,80,12,22,89,41,Vancomycin,random forest,Bakta
+Tn3 family transposase,16,25,113,25,18,52,Vancomycin,random forest,Bakta
+group_24118,2,41,44,88,26,52.67,Vancomycin,random forest,Bakta
+group_12774,7,4,20,130,38,62.67,Vancomycin,random forest,Bakta
+group_22363,38,105,81,26,81,62.67,Vancomycin,random forest,Bakta
+group_12899,20,162,83,62,48,64.33,Vancomycin,random forest,Bakta
+group_21671,1,79,123,71,8,67.33,Vancomycin,random forest,Bakta
+group_21687,47,71,18,63,125,68.67,Vancomycin,random forest,Bakta
+PTS mannose transporter subunit IIC,29,12,91,29,101,73.67,Vancomycin,random forest,Bakta
+group_9951,34,153,93,76,57,75.33,Vancomycin,random forest,Bakta
+IS66 family transposase,4,11,26,119,93,79.33,Vancomycin,random forest,Bakta
+DNA invertase Pin,36,357,54,152,33,79.67,Vancomycin,random forest,Bakta
+group_7825,37,216,137,47,59,81,Vancomycin,random forest,Bakta
+group_22066,33,22,144,93,19,85.33,Vancomycin,random forest,Bakta
+phage terminase small subunit P27 family,25,15654,158,45,54,85.67,Vancomycin,random forest,Bakta
+GTP-binding protein,14,229,77,49,162,96,Vancomycin,random forest,Bakta
+group_6602,31,29,129,21,146,98.67,Vancomycin,random forest,Bakta
+group_22325,42,45,40,34,236,103.33,Vancomycin,random forest,Bakta
+group_18806,50,1018,119,148,87,118,Vancomycin,random forest,Bakta
+group_22095,8,58,188,64,132,128,Vancomycin,random forest,Bakta
+group_7443,48,138,288,107,9,134.67,Vancomycin,random forest,Bakta
+SpaA domain-containing protein,49,92,140,180,144,154.67,Vancomycin,random forest,Bakta
+phosphosugar isomerase,30,191,370,52,68,163.33,Vancomycin,random forest,Bakta
+group_22396,39,51,59,444,96,199.67,Vancomycin,random forest,Bakta
+DUF3206 domain-containing protein,44,215,173,318,171,220.67,Vancomycin,random forest,Bakta
+DUF2961 domain-containing protein,26,14,51,24,615,230,Vancomycin,random forest,Bakta
+group_10095,19,163,215,552,39,268.67,Vancomycin,random forest,Bakta
+group_973,17,15,108,693,82,294.33,Vancomycin,random forest,Bakta
+group_12859,46,59,13,14,931,319.33,Vancomycin,random forest,Bakta
+YopX domain-containing protein,12,149,741,674,128,514.33,Vancomycin,random forest,Bakta
+Group 1 glycosyl transferase,45,195,97,437,3096,1210,Vancomycin,random forest,Bakta
+group_3153,27,2907,993,2690,185,1289.33,Vancomycin,random forest,Bakta
+group_12214,43,101,812,3007,741,1520,Vancomycin,random forest,Bakta
+tnp-ISEfa8,32,640,2580,2145,107,1610.67,Vancomycin,random forest,Bakta
+Damage-inducible protein J,41,16283,120,112,16212,5481.33,Vancomycin,random forest,Bakta
+group_12857,40,53,16171,144,773,5696,Vancomycin,random forest,Bakta

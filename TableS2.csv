@@ -1,0 +1,153 @@
+"Table S2. Feature ranking from tree model-based feature importance scores with pangenome feature sets for
+doxycycline-resistance prediction models. ""Avg feat importance ranking"" are averaged across 5-fold cross validation sets. ",,,,,,,,,
+Feature,Ranking_1,Ranking_2,Ranking_3,Ranking_4,Ranking_5,Avg feat importance ranking,Antibiotic,Classifier,Annotation
+group_5177,2,3,1,3,1,1.67,Doxycycline,random forest,Prokka
+group_6088,5,6,2,2,2,2,Doxycycline,random forest,Prokka
+group_8825,12,8,3,6,3,4,Doxycycline,random forest,Prokka
+eccC,1,4,8,1,6,5,Doxycycline,random forest,Prokka
+group_5094,7,1,9,5,4,6,Doxycycline,random forest,Prokka
+group_5095,4,10,5,7,9,7,Doxycycline,random forest,Prokka
+group_7273,6,2,12,4,7,7.67,Doxycycline,random forest,Prokka
+group_8834,10,7,4,14,5,7.67,Doxycycline,random forest,Prokka
+group_1766,3,15,6,12,8,8.67,Doxycycline,random forest,Prokka
+group_6087,8,5,7,11,10,9.33,Doxycycline,random forest,Prokka
+group_11173,22,12,10,8,15,11,Doxycycline,random forest,Prokka
+Int-Tn,18,16,13,10,11,11.33,Doxycycline,random forest,Prokka
+tet(L),11,14,11,9,17,12.33,Doxycycline,random forest,Prokka
+group_15351,13,19,16,15,12,14.33,Doxycycline,random forest,Prokka
+group_11172,9,11,14,16,14,14.67,Doxycycline,random forest,Prokka
+tet(M),17,13,17,17,13,15.67,Doxycycline,random forest,Prokka
+group_15352,15,9,19,13,16,16,Doxycycline,random forest,Prokka
+pre,16,17,15,19,18,17.33,Doxycycline,random forest,Prokka
+group_5190,26,63,22,20,19,20.33,Doxycycline,random forest,Prokka
+group_1302,14,18,18,18,28,21.33,Doxycycline,random forest,Prokka
+group_2298,23,38,24,23,29,25.33,Doxycycline,random forest,Prokka
+group_14075,29,61,31,30,24,28.33,Doxycycline,random forest,Prokka
+group_15917,19,33,39,39,20,32.67,Doxycycline,random forest,Prokka
+group_8842,21,21,52,21,27,33.33,Doxycycline,random forest,Prokka
+group_8864,39,24,32,25,43,33.33,Doxycycline,random forest,Prokka
+group_15924,41,22,23,22,57,34,Doxycycline,random forest,Prokka
+group_11869,32,31,21,57,26,34.67,Doxycycline,random forest,Prokka
+group_14076,30,25,29,35,48,37.33,Doxycycline,random forest,Prokka
+group_15916,35,28,45,42,39,42,Doxycycline,random forest,Prokka
+bin3_1,33,50,27,63,46,45.33,Doxycycline,random forest,Prokka
+group_11004,20,254,26,41,70,45.67,Doxycycline,random forest,Prokka
+opuCA,25,151,35,55,58,49.33,Doxycycline,random forest,Prokka
+group_8523,27,20,98,29,21,49.33,Doxycycline,random forest,Prokka
+group_5789,28,108,37,82,41,53.33,Doxycycline,random forest,Prokka
+group_2070,24,26,59,80,33,57.33,Doxycycline,random forest,Prokka
+group_12700,34,295,60,40,133,77.67,Doxycycline,random forest,Prokka
+group_8429,47,48,166,32,53,83.67,Doxycycline,random forest,Prokka
+group_4118,49,97,101,122,37,86.67,Doxycycline,random forest,Prokka
+copZ_2,48,917,77,116,79,90.67,Doxycycline,random forest,Prokka
+yncB_2,38,222,196,81,49,108.67,Doxycycline,random forest,Prokka
+group_11649,43,56,90,100,201,130.33,Doxycycline,random forest,Prokka
+group_5513,44,263,231,64,176,157,Doxycycline,random forest,Prokka
+group_9891,37,841,492,75,85,217.33,Doxycycline,random forest,Prokka
+group_7531,50,86,334,134,220,229.33,Doxycycline,random forest,Prokka
+group_1478,31,30,53,36,636,241.67,Doxycycline,random forest,Prokka
+group_8013,46,205,226,68,996,430,Doxycycline,random forest,Prokka
+group_12670,36,112,665,538,185,462.67,Doxycycline,random forest,Prokka
+group_6934,42,2091,270,954,862,695.33,Doxycycline,random forest,Prokka
+btsS,45,318,346,3149,527,1340.67,Doxycycline,random forest,Prokka
+group_3702,40,147,46,6183,657,2295.33,Doxycycline,random forest,Prokka
+group_5465,1,1,1,1,1,1,Doxycycline,gradient boosting,RASTtk
+BacA,11,34032,9,2,5,5.33,Doxycycline,gradient boosting,RASTtk
+group_17674,26,19079,20,8,4,10.67,Doxycycline,gradient boosting,RASTtk
+"Tn916, hypothetical protein",20,32,15,19,3,12.33,Doxycycline,gradient boosting,RASTtk
+group_15087,8,141,11,13,22,15.33,Doxycycline,gradient boosting,RASTtk
+group_15358,43,4,7,28,17,17.33,Doxycycline,gradient boosting,RASTtk
+"Tn916, transcriptional regulator, putative",12,16,4,31,24,19.67,Doxycycline,gradient boosting,RASTtk
+group_7483,5,29853,45,10,10,21.67,Doxycycline,gradient boosting,RASTtk
+FIG086557: Conjugation related protein,4,80,10,34,38,27.33,Doxycycline,gradient boosting,RASTtk
+"Tetracycline resistance, MFS efflux pump > Tet(L)",30,29,19,17,55,30.33,Doxycycline,gradient boosting,RASTtk
+group_2185,13,26461,99,27,60,62,Doxycycline,gradient boosting,RASTtk
+group_7993,40,82,117,29,152,99.33,Doxycycline,gradient boosting,RASTtk
+Epsilon antitoxin,29,18895,42,66,204,104,Doxycycline,gradient boosting,RASTtk
+group_10508,23,102,44,1101,101,415.33,Doxycycline,gradient boosting,RASTtk
+group_1282,19,3,69,6,3462,1179,Doxycycline,gradient boosting,RASTtk
+group_11681,37,129,8608,141,140,2963,Doxycycline,gradient boosting,RASTtk
+group_7786,36,108,48,91,11233,3790.67,Doxycycline,gradient boosting,RASTtk
+group_4187,28,12300,33,12310,59,4134,Doxycycline,gradient boosting,RASTtk
+group_25173,21,84,40,30,14794,4954.67,Doxycycline,gradient boosting,RASTtk
+group_25171,32,98,144,55,14781,4993.33,Doxycycline,gradient boosting,RASTtk
+group_22896,44,7575,51,7595,7522,5056,Doxycycline,gradient boosting,RASTtk
+group_29468,31,99,26,15629,12,5222.33,Doxycycline,gradient boosting,RASTtk
+group_29470,18,39,57,15627,28,5237.33,Doxycycline,gradient boosting,RASTtk
+group_27135,34,16951,39,58,16935,5677.33,Doxycycline,gradient boosting,RASTtk
+group_27133,24,16923,64,68,16937,5689.67,Doxycycline,gradient boosting,RASTtk
+group_1244,14,41,106,19617,126,6616.33,Doxycycline,gradient boosting,RASTtk
+group_2121,50,6723,6754,6722,6755,6743.67,Doxycycline,gradient boosting,RASTtk
+group_5976,3,20481,12,7,20471,6830,Doxycycline,gradient boosting,RASTtk
+group_13100,33,38,24060,16,11,8029,Doxycycline,gradient boosting,RASTtk
+group_1108,7,7916,7894,7934,8271,8033,Doxycycline,gradient boosting,RASTtk
+group_25172,38,42,50,14827,14795,9890.67,Doxycycline,gradient boosting,RASTtk
+group_22948,22,137,25,24,30353,10134,Doxycycline,gradient boosting,RASTtk
+ABC-F type ribosomal protection protein > OptrA,39,7,22,30926,7,10318.33,Doxycycline,gradient boosting,RASTtk
+group_6118,15,8,31055,53,95,10401,Doxycycline,gradient boosting,RASTtk
+group_17805,9,22,6,45,33375,11142,Doxycycline,gradient boosting,RASTtk
+group_8582,17,27,34364,26,46,11478.67,Doxycycline,gradient boosting,RASTtk
+group_3671,47,20495,20492,9,20470,13657,Doxycycline,gradient boosting,RASTtk
+group_9448,25,20737,16,20693,20726,13811.67,Doxycycline,gradient boosting,RASTtk
+group_12894,42,26980,27001,137,27033,18057,Doxycycline,gradient boosting,RASTtk
+group_12089,46,18123,18113,18146,18112,18123.67,Doxycycline,gradient boosting,RASTtk
+ComF operon protein C,49,53,19073,19085,19069,19075.67,Doxycycline,gradient boosting,RASTtk
+group_32197,10,46,18,28697,28669,19128,Doxycycline,gradient boosting,RASTtk
+FIG00627485: hypothetical protein,41,19420,19410,19467,19408,19428.33,Doxycycline,gradient boosting,RASTtk
+group_11679,16,30872,30868,30892,8,20589.33,Doxycycline,gradient boosting,RASTtk
+"Uncharacterized membrane spanning protein, contains VanZ-like domain",45,24422,24420,24421,24418,24419.67,Doxycycline,gradient boosting,RASTtk
+group_6027,35,26399,26319,26414,26314,26349,Doxycycline,gradient boosting,RASTtk
+group_4071,6,26378,26367,26394,26363,26374.67,Doxycycline,gradient boosting,RASTtk
+group_29179,27,28078,28066,28143,28061,28090,Doxycycline,gradient boosting,RASTtk
+group_6006,48,50,28816,28635,28811,28754,Doxycycline,gradient boosting,RASTtk
+group_24340,2,34468,34461,34417,34457,34445,Doxycycline,gradient boosting,RASTtk
+conjugal transfer protein,1,2,5,1,1,2.33,Doxycycline,random forest,Bakta
+virB4,5,7,7,2,2,3.67,Doxycycline,random forest,Bakta
+group_7416,2,6,3,3,8,4.67,Doxycycline,random forest,Bakta
+nlpC,3,3,2,10,5,5.67,Doxycycline,random forest,Bakta
+antirestriction protein ArdA,7,9,9,4,4,5.67,Doxycycline,random forest,Bakta
+group_8988,4,5,10,5,3,6,Doxycycline,random forest,Bakta
+Lmo1109 protein,13,10,1,7,10,6,Doxycycline,random forest,Bakta
+nicK,6,1,6,6,7,6.33,Doxycycline,random forest,Bakta
+Conjugative transposon protein,8,19,4,8,11,7.67,Doxycycline,random forest,Bakta
+YdcP family protein,9,4,8,9,6,7.67,Doxycycline,random forest,Bakta
+group_15520,19,13,11,11,9,10.33,Doxycycline,random forest,Bakta
+tet(L),17,17,12,16,15,14.33,Doxycycline,random forest,Bakta
+xis,15,11,13,23,12,16,Doxycycline,random forest,Bakta
+group_11348,12,14,15,15,20,16.67,Doxycycline,random forest,Bakta
+int,16,12,18,14,18,16.67,Doxycycline,random forest,Bakta
+erm(B),22,18,17,12,21,16.67,Doxycycline,random forest,Bakta
+group_11349,14,21,24,13,14,17,Doxycycline,random forest,Bakta
+group_1401,24,24,14,19,19,17.33,Doxycycline,random forest,Bakta
+tet(M),10,16,20,17,16,17.67,Doxycycline,random forest,Bakta
+pre,18,20,16,18,22,18.67,Doxycycline,random forest,Bakta
+tetracycline resistance determinant leader peptide,11,8,25,20,13,19.33,Doxycycline,random forest,Bakta
+group_8991,20,15,19,24,17,20,Doxycycline,random forest,Bakta
+group_5316,30,40,30,26,24,26.67,Doxycycline,random forest,Bakta
+Antitoxin epsilon,25,31,40,30,30,33.33,Doxycycline,random forest,Bakta
+group_12045,34,48,35,40,26,33.67,Doxycycline,random forest,Bakta
+ermC,21,25,26,54,23,34.33,Doxycycline,random forest,Bakta
+"cobyrinic acid a,c-diamide synthase",26,88,22,33,52,35.67,Doxycycline,random forest,Bakta
+group_2408,23,22,45,25,50,40,Doxycycline,random forest,Bakta
+group_1164,27,44,46,29,60,45,Doxycycline,random forest,Bakta
+group_16087,35,60,80,45,29,51.33,Doxycycline,random forest,Bakta
+mazE,41,73,97,37,40,58,Doxycycline,random forest,Bakta
+group_8580,28,110,69,27,79,58.33,Doxycycline,random forest,Bakta
+EF0062,36,51,58,63,70,63.67,Doxycycline,random forest,Bakta
+osmoprotectant,29,74,48,89,95,77.33,Doxycycline,random forest,Bakta
+yncB,33,30,79,134,36,83,Doxycycline,random forest,Bakta
+group_3595,32,4930,34,59,164,85.67,Doxycycline,random forest,Bakta
+Cation:proton antiporter,43,41,57,157,127,113.67,Doxycycline,random forest,Bakta
+IS110 family transposase,38,47,74,292,44,136.67,Doxycycline,random forest,Bakta
+group_463,37,28,28,78,306,137.33,Doxycycline,random forest,Bakta
+group_10025,31,409,177,232,71,160,Doxycycline,random forest,Bakta
+group_6004,42,357,331,239,107,225.67,Doxycycline,random forest,Bakta
+group_1366,50,2660,377,114,316,269,Doxycycline,random forest,Bakta
+group_7675,39,70,61,144,626,277,Doxycycline,random forest,Bakta
+GramPos-pilinD1 domain-containing protein,45,206,405,46,654,368.33,Doxycycline,random forest,Bakta
+group_7997,48,114,160,424,853,479,Doxycycline,random forest,Bakta
+group_10866,46,377,613,1340,481,811.33,Doxycycline,random forest,Bakta
+group_10004,47,140,155,1003,1599,919,Doxycycline,random forest,Bakta
+group_1917,44,393,3851,200,117,1389.33,Doxycycline,random forest,Bakta
+group_10049,49,273,4714,31,122,1622.33,Doxycycline,random forest,Bakta
+immA,40,18496,168,7293,128,2529.67,Doxycycline,random forest,Bakta
